@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item name = "1">Milk</item>
+        <item name = "2">Oil</item>
+        <item name = "3">Butter</item>
+        <item name = "4">Honey</item>
+        <item name = "5">Grain</item>
+
+    </string-array>
+</resources>
